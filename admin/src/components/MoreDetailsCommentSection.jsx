@@ -52,7 +52,7 @@ const Button = styled.button `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @param {properties} - The customer ID, name and the list of communications happened
  * @returns {JSX.Element} - The comment section type more details section
  */

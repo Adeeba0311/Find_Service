@@ -71,7 +71,7 @@ const SubmitButton = styled.button `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} - Registration form
  */
 const Register = () => {

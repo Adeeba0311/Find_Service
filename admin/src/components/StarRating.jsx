@@ -30,7 +30,7 @@ const Star = styled.div `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @param properties - Contains the rating of the review or the service
  * @returns {JSX.Element} - Star rating component
  */

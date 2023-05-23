@@ -42,7 +42,7 @@ const TopDetails = styled.div `
   display: flex;
 `;
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} - Home Page of the website
  */
 const Home = () => {

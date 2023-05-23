@@ -23,7 +23,7 @@ const Image = styled.img `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @param photo - Contains the url for the photo
  * @returns {JSX.Element} Photo component, which is used in the Photo Carousel/Slider in the Service Page.
  */

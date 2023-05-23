@@ -25,7 +25,7 @@ const CommentTimeStamp = styled.p `
 const CommentText = styled.p ``;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @param {item} Each comment
  * @returns {JSX.Element} Comment Component
  */

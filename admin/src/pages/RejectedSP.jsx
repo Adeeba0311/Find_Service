@@ -54,7 +54,7 @@ const TopDetails = styled.div `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} - returns the service list page
  */
 const RejectedSP = () => {

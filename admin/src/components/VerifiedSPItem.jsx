@@ -47,7 +47,7 @@ const ContentText = styled.div `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @param item - Each service details
  * @returns {JSX.Element} - Service details card for the service list
  */

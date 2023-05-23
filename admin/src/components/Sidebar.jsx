@@ -67,7 +67,7 @@ const Icon =  styled.div `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} Sidebar component, which is displayed on the left side of all the pages
  */
 const Sidebar = () => {

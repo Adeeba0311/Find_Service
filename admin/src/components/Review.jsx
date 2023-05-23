@@ -81,7 +81,7 @@ const DeleteButton = styled.button`
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @param item - Each review object
  * @returns {JSX.Element} One review card component
  */

@@ -63,7 +63,7 @@ const ContactItem = styled.div `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} Footer component, which is displayed at the bottom of all the pages
  */
 const Footer = () => {

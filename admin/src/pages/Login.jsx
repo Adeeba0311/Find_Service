@@ -73,7 +73,7 @@ const LinkText = styled.a `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} - Login Page with form
  */
 const Login = () => {

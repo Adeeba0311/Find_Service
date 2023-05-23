@@ -93,7 +93,7 @@ const RejectButton = styled.button `
 
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} - Page for the customer's service request
  * @constructor
  */

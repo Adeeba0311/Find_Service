@@ -121,7 +121,7 @@ const ReviewGrid = styled.div`
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} - returns the service details page
  */
 const ServicePage = () => {

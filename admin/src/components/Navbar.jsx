@@ -159,7 +159,7 @@ const Button = styled.button `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @returns {JSX.Element} Navbar component, which is displayed at the top of all the pages
  */
 const Navbar = () => {

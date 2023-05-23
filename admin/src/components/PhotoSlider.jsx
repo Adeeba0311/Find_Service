@@ -8,7 +8,7 @@ const Container = styled.div `
 `;
 
 /**
- * @author Adeeba S D
+ * @author Adeeba M
  * @param photos - List of photos to be displayed in the carousel/slider
  * @returns {JSX.Element} - Carousel component for the photos array which is used in the Service Page
  */
